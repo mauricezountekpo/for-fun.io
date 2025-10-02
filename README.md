@@ -1,4 +1,4 @@
-# TheGitMau.for-fun.io
+# For-fun.io
 
 ### Description
 
@@ -23,7 +23,7 @@ Lien Figma d’origine: `https://www.figma.com/design/LIuuSL8mPBJIR01BoPtrYi/Unt
 
 - `index.html` — structure HTML et contenu
 - `style.css` — styles globaux et de sections
-- `Assets/img/` — images des intervenants
+- `Assets/imgs/` — images des intervenants
 
 ## Conventions de nommage
 
@@ -58,7 +58,7 @@ Définies dans `:root` (couleurs principales du thème) :
 
 ## Accessibilité et contenu
 
-- Renseigner des attributs `alt` descriptifs pour les images (`Assets/img/*`).
+- Renseigner des attributs `alt` descriptifs pour les images (`Assets/imgs/*`).
 - Conserver une hiérarchie sémantique des titres (h1, h2, h3...).
 - Le planning pourrait être présenté en tableau sémantique si nécessaire (choix maquette ici: grid).
 
